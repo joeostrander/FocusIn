@@ -27,7 +27,6 @@ namespace FocusIn
         FormFocus focus;
 
 
-
         public Form1()
         {
             InitializeComponent();
