@@ -1,0 +1,10 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\bin\Release\FocusIn.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\bin\Release\FocusIn.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\bin\Release\FocusIn.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Release\FocusIn.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Release\FocusIn.FormFocus.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Release\FocusIn.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Release\FocusIn.csproj.GenerateResource.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Release\FocusIn.csproj.CoreCompileInputs.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Release\FocusIn.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Release\FocusIn.pdb

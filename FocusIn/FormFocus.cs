@@ -91,8 +91,7 @@ namespace FocusIn
 
         Rectangle rcScreen;
 
-
-        
+                
 
         public string strMode { get; set; }
 

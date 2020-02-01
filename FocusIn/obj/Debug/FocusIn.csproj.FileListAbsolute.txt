@@ -1,0 +1,11 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\bin\Debug\FocusIn.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\bin\Debug\FocusIn.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\bin\Debug\FocusIn.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.FormFocus.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.csproj.GenerateResource.Cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.csprojAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\FocusIn\FocusIn\obj\Debug\FocusIn.csproj.CoreCompileInputs.cache
